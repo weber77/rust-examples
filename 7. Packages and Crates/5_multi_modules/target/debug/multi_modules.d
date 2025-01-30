@@ -1,0 +1,1 @@
+/Users/weberkanga/Documents/Work/Personal/Hobby/rust/7.\ Packages\ and\ Crates/5_multi_modules/target/debug/multi_modules: /Users/weberkanga/Documents/Work/Personal/Hobby/rust/7.\ Packages\ and\ Crates/5_multi_modules/src/main.rs

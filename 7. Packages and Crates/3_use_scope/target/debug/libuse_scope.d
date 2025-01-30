@@ -1,0 +1,1 @@
+/Users/weberkanga/Documents/Work/Personal/Hobby/rust/7.\ Packages\ and\ Crates/3_use_scope/target/debug/libuse_scope.rlib: /Users/weberkanga/Documents/Work/Personal/Hobby/rust/7.\ Packages\ and\ Crates/3_use_scope/src/lib.rs

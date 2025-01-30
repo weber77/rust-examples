@@ -1,0 +1,1 @@
+/Users/weberkanga/Documents/Work/Personal/Hobby/rust/7.\ Packages\ and\ Crates/4_nested_path/target/debug/nested_path: /Users/weberkanga/Documents/Work/Personal/Hobby/rust/7.\ Packages\ and\ Crates/4_nested_path/src/main.rs
